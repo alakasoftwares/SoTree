@@ -18,6 +18,13 @@ Then open `http://localhost:8080/`.
 4. Set `Deploy from branch`.
 5. Select `main` and `/ (root)`.
 
+## Publishing URLs
+
+- Final GitHub Pages URL: `https://alakasoftwares.github.io/SoTree/`
+- Privacy Policy URL: `https://alakasoftwares.github.io/SoTree/privacy.html`
+- Data Deletion URL: `https://alakasoftwares.github.io/SoTree/data-deletion.html`
+- Terms URL: `https://alakasoftwares.github.io/SoTree/terms.html`
+
 ## Update before publishing
 
 - Update the final GitHub Pages URL in `sitemap.xml` and `robots.txt` if the repository path changes.
@@ -25,5 +32,5 @@ Then open `http://localhost:8080/`.
 
 ## Notes
 
-- The current sitemap uses the placeholder base URL `https://bonchahere.github.io/SoTree/`.
+- The current sitemap and robots configuration target `https://alakasoftwares.github.io/SoTree/`.
 - If your repo name or GitHub Pages path differs, update every sitemap entry before publishing.
